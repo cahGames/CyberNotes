@@ -1,4 +1,4 @@
 # CyberNotes
- A set of notes about cybersecurity
+ A set of notes about cybersecurity.
 
  Made with CherryTree.
